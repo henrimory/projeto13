@@ -1,0 +1,8 @@
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\bin\Debug\projeto13.exe.config
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\bin\Debug\projeto13.exe
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\bin\Debug\projeto13.pdb
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\obj\Debug\projeto13.csprojResolveAssemblyReference.cache
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\obj\Debug\projeto13.MainForm.resources
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\obj\Debug\projeto13.csproj.GenerateResource.Cache
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\obj\Debug\projeto13.exe
+C:\Users\henrique\Desktop\DOCUMENTOS PESSOAIS HENRIQUE\projeto13\projeto13\obj\Debug\projeto13.pdb
